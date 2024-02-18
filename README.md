@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pınar Alioğulları</h1>
 <p align="center">As someone relatively new to the world of software, I follow and try out projects that captivate my interest and that I believe can contribute to my learning journey. Alongside my passion for programming, I regularly share my work on my GitHub account.Feedback on my projects and your contribution to my development are important to me. If you have the opportunity to review the work in my repository, please feel free to provide suggestions and share your thoughts.</p>
 
-- 🌱 I’m currently learning **React Js, JavaScript,tailwind**
+- 🌱 I’m currently learning **React Js, JavaScript, ASP.NET Core **
 
 - 📝 I regularly write articles on [https://medium.com/@aliogullarpnar](https://medium.com/@aliogullarpnar)
 
