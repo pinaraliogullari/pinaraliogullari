@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pınar Alioğulları</h1>
+<h1 align="center">Hi there 👋, I'm Pınar Alioğulları Kaya</h1>
 <p align="center"> I follow and try out projects that captivate my interest and that I believe can contribute to my learning journey. Alongside my passion for programming, I regularly share my work on my GitHub account. Feedback on my projects and your contribution to my development are important to me. If you could have the opportunity to review the works in my repositories, please feel free to provide suggestions and share your thoughts.</p>
 
-- 🌱 I’m currently learning **React Js and Unit Test **
+- 🌱 I’m currently learning **RabbitMQ and Unit Test **
 
 - 📝 I regularly write articles on [https://medium.com/@aliogullarpnar](https://medium.com/@aliogullarpnar)
 
-- 📫 How to reach me **aliogullarpnar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/p%c4%b1nar-alio%c4%9fullar%c4%b1-a26884146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/p%c4%b1nar-alio%c4%9fullar%c4%b1-a26884146/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/p%C4%B1nar-alio%C4%9Fullar%C4%B1-a26884146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/p%c4%b1nar-alio%c4%9fullar%c4%b1-a26884146/" height="30" width="40" /></a>
 
 </p>
 
