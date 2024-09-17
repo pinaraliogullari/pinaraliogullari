@@ -18,9 +18,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinaraliogullari&show_icons=true&locale=en&layout=compact" alt="pinaraliogullari" /></p>
-![Pınar Alioğulları'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=pinaraliogullari&show_icons=true&theme=radical)
-[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=pinaraliogullari&layout=compact&theme=radical)](https://github.com/pinaraliogullari)
-![Toplam Commit Sayım](https://komarev.com/ghpvc/?username=pinaraliogullari)
+<p><img align="left" src="https://komarev.com/ghpvc/?username=pinaraliogullari" alt="pinaraliogullari" /></p>
+
+
+
 
 
 
