@@ -18,7 +18,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinaraliogullari&show_icons=true&locale=en&layout=compact" alt="pinaraliogullari" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pinaraliogullari&show_icons=true&count_private=true&hide=contribs&theme=default&custom_title=Pınar Alioğulları%20Github%20Stats" alt="pinaraliogullari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pinaraliogullari&show_icons=true&count_private=true&hide=contribs&theme=default&custom_title=Pınar Alioğulları's Github Stats" alt="pinaraliogullari" /></p>
 
 
 
