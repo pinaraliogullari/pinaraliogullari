@@ -4,10 +4,6 @@
 - 📝 I regularly write articles on [https://medium.com/@aliogullarpnar](https://medium.com/@aliogullarpnar)
 
 
-<span align="left">Connect with me:</span>
-<span align="left">
-<a href="[https://www.linkedin.com/in/p%C4%B1nar-alio%C4%9Fullar%C4%B1-a26884146/](https://www.linkedin.com/in/pinaraliogullarikaya/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/p%c4%b1nar-alio%c4%9fullar%c4%b1-a26884146/](https://www.linkedin.com/in/pinaraliogullarikaya/)" height="30" width="40" /></a>
-
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
